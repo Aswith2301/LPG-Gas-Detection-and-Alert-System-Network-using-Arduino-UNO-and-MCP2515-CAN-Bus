@@ -10,4 +10,4 @@ The receiver end consists of a CAN bus which monitors for a message from the tra
 The important feature of the system is that a single receiver can work with multiple transmitters placed within 1000m from the receiver. This draws the major difference from the existing systems. 
 
 ## Circuit
-![My Image](Circuit & Flowcharts/Circuit.png)
+![Circuit](https://user-images.githubusercontent.com/128481323/226898446-3eebe813-af96-4b76-8980-aaa111cd07d5.png)
