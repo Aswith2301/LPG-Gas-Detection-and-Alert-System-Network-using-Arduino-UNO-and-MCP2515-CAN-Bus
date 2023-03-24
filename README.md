@@ -11,3 +11,9 @@ The important feature of the system is that a single receiver can work with mult
 
 ## Circuit
 ![Circuit](https://user-images.githubusercontent.com/128481323/226898446-3eebe813-af96-4b76-8980-aaa111cd07d5.png)
+
+## Transmitter Flowchart
+![Transmitter flowchart](https://user-images.githubusercontent.com/128481323/227520778-ba6c0d6f-0349-433b-a5fc-6225d5bed8f4.jpeg)
+
+## Receiver Flowchart
+![Receiver flowchart](https://user-images.githubusercontent.com/128481323/227520890-b058af12-480a-4419-8777-8971716562d1.jpeg)
